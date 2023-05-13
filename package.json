@@ -1,0 +1,50 @@
+{
+  "name": "mebyme",
+  "version": "1.0.0",
+  "description": "profile",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerierobles/mebyme.git"
+  },
+  "author": "Valerie Robles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerierobles/mebyme/issues"
+  },
+  "homepage": "https://github.com/valerierobles/mebyme#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
+    "jest": "^29.5.0",
+    "pretty": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.3.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+}
+} 
