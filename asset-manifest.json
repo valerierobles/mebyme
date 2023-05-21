@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valerierobles/mebyme/static/css/main.d472b53d.css",
+    "main.js": "/valerierobles/mebyme/static/js/main.453ba496.js",
+    "index.html": "/valerierobles/mebyme/index.html",
+    "main.d472b53d.css.map": "/valerierobles/mebyme/static/css/main.d472b53d.css.map",
+    "main.453ba496.js.map": "/valerierobles/mebyme/static/js/main.453ba496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d472b53d.css",
+    "static/js/main.453ba496.js"
+  ]
+}
